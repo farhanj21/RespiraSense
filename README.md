@@ -1,6 +1,6 @@
 # RespiraSense
 
-This repository is my Final Year Project!
+This is my Final Year Project!
 
 A Lung Disease Detection System built using DenseNet201 to classify Chest X-Rays into Pneumonia, Covid-19, Tuberculosis or Normal. This involves development of a web application named RespiraSense designed for both doctors and patients.
 
